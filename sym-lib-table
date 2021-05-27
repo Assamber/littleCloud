@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LittleCloud)(type Legacy)(uri ${KIPRJMOD}/LittleCloud.lib)(options "")(descr ""))
+)
